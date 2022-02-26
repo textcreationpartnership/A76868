@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight between the Parliaments forces, and Sir George Booth's, under the conduct of Sir Thomas Middleton, and Collonel Ireland; on Priest-Moor, near Red-Hill Castle, in the county of Shropshire, about seven miles from Shrewsbury. With the particulars thereof, the manner of the engagement; the number of officers and souldiers taken prisoners; divers slain; and a great body of horse routed and pursued. Likewise the names of the commanders that gave the onset; the dividing of the enemies army into two bodies, and their marching towards York and Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76868</idno>
+            <idno type="STC">Wing B3241</idno>
+            <idno type="STC">Thomason E995_1</idno>
+            <idno type="STC">ESTC R207801</idno>
+            <idno type="EEBO-CITATION">99866830</idno>
+            <idno type="PROQUEST">99866830</idno>
+            <idno type="VID">168681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168681)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E995[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight between the Parliaments forces, and Sir George Booth's, under the conduct of Sir Thomas Middleton, and Collonel Ireland; on Priest-Moor, near Red-Hill Castle, in the county of Shropshire, about seven miles from Shrewsbury. With the particulars thereof, the manner of the engagement; the number of officers and souldiers taken prisoners; divers slain; and a great body of horse routed and pursued. Likewise the names of the commanders that gave the onset; the dividing of the enemies army into two bodies, and their marching towards York and Wales.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 25 Aug: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Delamer, George Booth, --  Baron, 1622-1684 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168681:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT Between the Parliaments Forces, AND Sir <hi>GEORGE BOOTH</hi>'s, Under the Conduct of Sir <hi>Thomas Middleton,</hi> and Collonel <hi>IRELAND;</hi> ON <hi>Prieſt</hi>-Moor, near <hi>Red-Hill</hi> Caſtle, in the County of <hi>Shropſhire,</hi> about ſeven Miles from SHREWSBURY.</p>
+            <p>With the Particulars thereof, the manner of the Engagement; the number of Officers and Soul<g ref="char:EOLhyphen"/>diers taken priſoners; divers ſlain; and a great Body of Horſe routed and purſued.</p>
+            <p>Likewiſe the Names of the Com<g ref="char:EOLhyphen"/>manders that gave the Onſet; the dividing of the Enemies Army into two Bodies, and their marching towards <hi>YORK</hi> and <hi>WALES.</hi>
+            </p>
+            <p>
+               <add>Auguſt 25</add> 
+               <hi>London,</hi> Printed for <hi>G. HORTON,</hi> MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168681:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:168681:2"/>
+            <head>A Bloody FIGHT between the Forces of Sir George Booth, AND The <hi>Parliaments:</hi> With the number killed and ta<g ref="char:EOLhyphen"/>ken Priſoners, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Indulgent Brow having let looſe the Golden Reins of Diſcipline, hath cau<g ref="char:EOLhyphen"/>ſed a great Errour and Diſtraction, in ſeveral Counties of this Nation; and it is no wonder if at any time the Bridle of Government be ſlackned, when the Snaffle that ſhould keep it ſteady and even, hath loſt its two B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes, <hi>Fear</hi> and <hi>Puniſhment.</hi>
+            </p>
+            <pb n="4" facs="tcp:168681:3"/>
+            <p> And thus it is, that divers Gentlemen under Sir <hi>George Booth,</hi> have run themſelves into ſuch an <hi>Exi<g ref="char:EOLhyphen"/>gent,</hi> that they have not only unbotton<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d their former Beings, and made themſelves uncapable of their hap<g ref="char:EOLhyphen"/>py Enjoyments; but have alſo rendered themſelves capable of the high diſpleaſure of the preſent Parlia<g ref="char:EOLhyphen"/>ment; by their levying of a New War, and their ac<g ref="char:EOLhyphen"/>tual engaging to imbrue the Nation in bloud; as e<g ref="char:EOLhyphen"/>vidently appears by their Acts of Hoſtility, at <hi>Prieſt-Moor</hi> (on <hi>Tueſday</hi> laſt) in the County of <hi>Shropſhire,</hi> the manner thus:</p>
+            <p>After the poſſeſſing of the City of <hi>Cheſter</hi> by Sir <hi>Geo. Booth,</hi> and a Summons ſent to Col. <hi>Croxton,</hi> Governour of the Caſtle; his Anſwer ſpake ſo high, that it chan<g ref="char:EOLhyphen"/>ged the Scene of that great Affair, who declared, <hi>That as Ferfidiouſneſs in him was detestable, ſo the Caſtle of Che<g ref="char:EOLhyphen"/>ſter which he kept for the Parliament of England was diſpu<g ref="char:EOLhyphen"/>table; and that if they would have it, they muſt fight for it; for the beſt blood that ran through his Veins, in defence ther<g ref="char:EOLhyphen"/>of ſhould be as a Sluce to ſill up the Caſtle Trenches,</hi> &amp;c.</p>
+            <p>This being communicated to Sir <hi>George,</hi> a Council of War was held, where it was reſolved, That the F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>ces which they had, ſhould be divided into two Bo<g ref="char:EOLhyphen"/>dies; the one to march towards <hi>York,</hi> under the Com<g ref="char:EOLhyphen"/>mand of Sir <hi>George Booth;</hi> the other towards <hi>Wales,</hi> commanded by Sir <hi>Thomas Middleton:</hi> And thus ha<g ref="char:EOLhyphen"/>ving deſigned their ſeveral Quarters, or Stations, for the encreaſe of more Forces, they quitted the City of <hi>Cheſter;</hi> and upon their march met with little oppoſi<g ref="char:EOLhyphen"/>tion, until ſuch time, that Sir <hi>Thomas</hi> entring the Con<g ref="char:EOLhyphen"/>fines of <hi>Shropſhire,</hi> and advancing towards <hi>Whit-Church,</hi> and <hi>Red-Hill Caſtle,</hi> two Troops of gallant Horſe commanded by Major <hi>Creed</hi> his Quarter-ma<g ref="char:EOLhyphen"/>ſter,
+<pb n="5" facs="tcp:168681:3"/>beat upon the Enemies Rear-Guard, conſiſting of two Troops belonging to Colonel <hi>Ireland's</hi> Regi<g ref="char:EOLhyphen"/>ment, but commanded by his own Quarter-maſter; who diſcovering the near approach of the Parlia<g ref="char:EOLhyphen"/>ments Party upon <hi>Prieſt-Moor,</hi> prepared to receive them; and facing about, diſputed the place, but not able to maintain the ground; for Major <hi>Creed</hi>'s Quar<g ref="char:EOLhyphen"/>ter maſter (after the firſt Charge) purſued it ſo cloſe, that he immediatly brake in amongſt them, brake their Ranks, put them to a great diſorder, took the Quartermaſter priſoner, and eight Troopers, killed ſome, and routed the reſt; but could not embrace the purſuit far, by reaſon the Enemies main Body was not far diſtant: So that they made good their Retreat to <hi>Shrewsbury,</hi> with little loſs, being about ſix or ſeven miles from the place they firſt engaged.</p>
+            <p>T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is is obſervable, That as ſome of the chief Ring<g ref="char:EOLhyphen"/>leaders of this Party were the firſt Inſtruments of this Inſurrection, ſo i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it the firſt Blow ſtruck in the Field ſince their great Riſing: And we doubt not, but that GOD; who hath already crowned Us with the firſt Victory, will alſo evidence His Strength and Bleſſing upon the Wiſdome and Care of the Parliament and Council, by checking the Riſe of ſome grand plotted Inſurreotions, and by reſtraining the Fury of the reſt laid in other parts of the Nation.</p>
+            <p>For which end, General <hi>Disborow,</hi> and Col. <hi>Packer,</hi> have raiſed divers new forces in and about the City of <hi>Glouceſter;</hi> ſo that the Enemy cannot get to a head, or dare to rendesvouz in that County.</p>
+            <p>The like is done by Colonel <hi>Okey</hi> about <hi>Briſtol,</hi> and by Col. <hi>Rogers</hi> in <hi>Hereford ſhire.</hi> From whence we ſhall take a view Northward, and a little trace and
+<pb n="6" facs="tcp:168681:4"/>introduce the quick march of Sir <hi>George Booth,</hi> which appears to be from <hi>Cheſter</hi> towards <hi>Kendal</hi> in <hi>Weſtmer<g ref="char:EOLhyphen"/>land;</hi> from thence towards <hi>Skipton</hi> upon <hi>Craven;</hi> and from thence towards <hi>York,</hi> who on <hi>Tueſday</hi> laſt was within twelve miles of the City, where he made his Randezvouz; and it is thought unleſs the Parliaments Forces prevent him, that he will ſurpriſe the City; for it is ſuppoſed not to be very formidable, eſpecially at
+<list>
+                  <item>Middlegate Bar,</item>
+                  <item>Mary Gate,</item>
+                  <item>Bowdon Bar,</item>
+                  <item>Stone gate,</item>
+                  <item>And the Minſter Port.</item>
+               </list>
+            </p>
+            <p>Onely the Mannour Houſe, and <hi>Cliffords</hi> Tower is ſomewhat conſiderable, if prudently mannaged, and but indifferently man'd.</p>
+            <p>But the Lord <hi>Lambert</hi> it's poſſible may divert the Deſign; his meeting of the <hi>Cheſhire</hi> Forces being ſud<g ref="char:EOLhyphen"/>denly expected, for on <hi>Thurſday</hi> night laſt his. Quar<g ref="char:EOLhyphen"/>ters was at <hi>Litchſield.</hi> There is great Expectation by the contrary Party; but the further Iſſue we ſhall leave to him that beſtows all Victory.</p>
+            <p>The Countries are much diſturbed at theſe New Inſurrections, becauſe they have not as yet got in their Harveſt, ſuppoſing that their men will be em<g ref="char:EOLhyphen"/>ployed otherwiſe; but we hope better things, for we ſhall be more troubled for want of Bread, then they for want of Men.</p>
+            <pb n="7" facs="tcp:168681:4"/>
+            <p> As touching the Rumour of lauding Ten Thouſand men at <hi>Newcaſtle,</hi> to joyn with Sir <hi>George Booth,</hi> it ap<g ref="char:EOLhyphen"/>pears as ayrie as the Report of Sir <hi>William Waller</hi> be<g ref="char:EOLhyphen"/>ing ſeized for having a hand in the <hi>New Conſpiracie;</hi> which, in truth, appears to be onely thus: That Sir <hi>William,</hi> and ſeveral other Gentlemen were ſeiſed by a Troop of Horſe at Mr. <hi>Barnham</hi>'s Houſe near <hi>Maid<g ref="char:EOLhyphen"/>ſtone,</hi> but upon a fair account given of their Meeting, moſt of them were diſcharged.</p>
+            <p>In a word, that the Icy-fancies of many in theſe Times, may not work too great a deluſion by taking Centre in their Affections, for the bringing in of for<g ref="char:EOLhyphen"/>reign forces, be pleaſed to treat your Eye, and obſerve, the great danger of relying upon ſuch Aid and Aſſi<g ref="char:EOLhyphen"/>ſtance; which I ſhall demonſtrate in the words of Bi. <hi>Barlow,</hi> as they were by him cited in his Sermon at Sr. <hi>Pauls,</hi> on the next Sonday after the diſcovery of the Gun-powder Treaſon, 1605.
+<q>O England, England! Behold and beware.</q>
+            </p>
+            <p>THere is a Fable, how that the Horſe being too weak fer the Stagg, required the help of a Man, which was eaſily granted; Who getting upon the Horſe-back, put the Stagg to flight; but after that, <hi>Non equitum dorſo, non fraenum depluitore,</hi> he could ne<g ref="char:EOLhyphen"/>ver quit his back of the Rider, nor his mouth from the Bridle-bit. So it is with the helps of <hi>Worldly Poten<g ref="char:EOLhyphen"/>tates,</hi> meer <hi>beneficia viſcata,</hi> juſt like the poor Bird, that having eſcaped the Snare, percheth upon the Tree for refuge, and there ſhe finds bird-lime to intangle her, from whence ſhe cannot fly, but with the loſs of her feathers, if not of her members. And thus it is with
+<pb n="8" facs="tcp:168681:5"/>the helps of States and Nations, Ask their help in time of diſtreſs, and they will grant it; but withall, either they exact a Tribute, which exhauſteth the Treaſury, or impoſe conditions which infringe the Li<g ref="char:EOLhyphen"/>berty, or require a future ayd which weakneth the po<g ref="char:EOLhyphen"/>wer, or betray upon advantage, which redoubles the miſery, or upbraid the benefit, which exulcerates the Mind; ſo that it is matter of danger to make any re<g ref="char:EOLhyphen"/>liance upon ſuch aid and aſſiſtance.</p>
+            <p>Upon a further confirmation of the Defeat given to Sir <hi>George Booth's</hi> forces in <hi>Shropſhire,</hi> many are ſaid to be kill'd upon the place, and the Quartermaſter be<g ref="char:EOLhyphen"/>fore mentioned is a Papiſt. More Action is ſudden<g ref="char:EOLhyphen"/>ly expected; but at preſent a declining of Engage<g ref="char:EOLhyphen"/>ment.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
